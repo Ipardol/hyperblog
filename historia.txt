@@ -1,0 +1,6 @@
+hola estoy 
+escribiendo algo
+para poder testear 
+mientras estudio en platzi
+para dominar lo que es Git
+ademas de Github
