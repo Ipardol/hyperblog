@@ -6,3 +6,4 @@ para dominar lo que es Git
 ademas de Github
 quiero decir algo mas 
 para solo el ejercicio de Git
+figaro figaro figaro
