@@ -6,3 +6,6 @@ body {
 .main {
     margin: 0 auto;
 }
+.header {
+    background-color: blueviolet;
+}
